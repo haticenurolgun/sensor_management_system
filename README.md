@@ -13,7 +13,8 @@ Abstraction (Soyutlama): * Kullanıcının sensörün içindeki karmaşık hesap
 
 Polymorphism (Çok Biçimlilik): * Farklı sensör tiplerinin (TemperatureSensor, DistanceSensor vb.) aynı metot isimlerini (display_info) kullanarak kendilerine has çıktı vermelerini sağladım.
 
-🏗️ Mimari Yapı (Separation of Concerns)
+🏗️ Mimari Yapı (Separation of Concerns):
+
 Proje, sorumlulukların net ayrılması için üç ana modüle bölünmüştür:
 
 sensors.py (Domain Logic): Sensörlerin "şablonlarını" barındırır. Veri doğrulama ve matematiksel işlemler burada gerçekleşir.
