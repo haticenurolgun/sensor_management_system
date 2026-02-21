@@ -1,4 +1,4 @@
-🎯 Projenin Amacı
+
 Bu çalışmada aşağıdaki OOP kavramlarını gerçek bir senaryo üzerinde uygulamayı hedefledim:
 
 Inheritance (Kalıtım): * Tüm sensörlerin ortak özelliklerini (isim, fiyat, birim) SENSOR ana sınıfında topladım.
